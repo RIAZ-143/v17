@@ -28,4 +28,4 @@ import v17
 
   
 
-v17.random_crack()
+v17.password()
