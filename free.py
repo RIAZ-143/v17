@@ -3,7 +3,7 @@ import os
  
 
 os.system('git pull')
-
+print('update done')
  
 
  
@@ -28,4 +28,4 @@ import v17
 
   
 
-v17.password()
+v17.passworda()
